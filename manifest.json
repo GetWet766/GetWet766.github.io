@@ -1,6 +1,6 @@
 {
-    "name": "ai_heed",
-    "short_name": "ai_heed",
+    "name": "heed",
+    "short_name": "heed",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
